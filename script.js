@@ -17,7 +17,9 @@ class ProdutoDestaque extends Produto{
         this.imagem = imagem;
     }
     mostrarProdutoDestaque(){
-        return this.nome + this.dataCadastro + this.descricao + this.preco + this.imagem;
+        return 
+        <h1>{this.nome}</h1>
+        + this.dataCadastro + this.descricao + this.preco + this.imagem;
     }
 }
 

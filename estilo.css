@@ -1,3 +1,25 @@
-body {
-  background: #CCC;
+
+body{
+  background-color: rgb(255, 255, 255);
+}
+h2{
+  text-align: center;
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+}
+
+h1{
+  text-align: center;
+  font-size: 35px;
+}
+
+.coluna1{
+  position: relative;
+  text-align: right;
+}
+
+.coluna2{
+  position: relative;
+  display: flex;
+  justify-content: center;  
 }
