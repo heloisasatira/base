@@ -10,6 +10,10 @@ h2{
   color: rgb(255, 8, 111);
 }
 
+h3{
+  color: rgb(255, 255, 255);
+}
+
 p {
   font-size: 19px;
   color: white;
@@ -21,7 +25,7 @@ p {
 }
 h1 {
   text-align: center;
-  color:rgb(255, 8, 111);
+  color:rgb(195, 0, 255);
 }
 
 h3{
